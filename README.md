@@ -1,6 +1,19 @@
 # char-vae
 Generating embedding vectors of characters from their images via VAE
 
+## Development environment
+
+python 3.5.1
+
+chainer 1.24.0
+
+see also requirements.txt
+
+```:bash
+pip install -r requirements.txt
+```
+
+
 ## Making Vectors
 
 Prepare a target font file.
